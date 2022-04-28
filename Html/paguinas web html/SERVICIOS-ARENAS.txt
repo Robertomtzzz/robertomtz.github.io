@@ -1,0 +1,67 @@
+
+<html>
+<head>
+
+<title>Productos! </title>
+</head>
+
+<body background="C:\Users\holam\Downloads/amburgesa.png" bgcolor="#d6d7c6" text="#000000">
+<center><table width="950"><tr><td>
+
+<img src="C:\Users\holam\Downloads/zi.png" alt="logo de nuestra pagina web"> 
+
+<a href="servicios.html">
+
+
+</center>
+
+
+
+
+<center><table border ="0" width="90%" bgcolor="#fff7db">
+<tr>
+
+<td colspan="2">
+<center><font face="verdana">
+<h1>Cual quieres comprar?
+</h1>
+</font></center>
+</td>
+
+
+</tr>
+<tr>
+<td><p>Hola!, ordena lo que quiera, y cuando quieras</p>
+
+<h1><font color="red" face="Verdana">OFERTAS LIMITADAS</font></h1>
+<h2>Bat Bueger</h2>
+<p>100$</p>
+<img src="C:\Users\holam\OneDrive\Documentos/batger.png">
+<h4>REDGESA</h4>
+<p>200$</p>
+<img src="C:\Users\holam\OneDrive\Documentos/redborgesa.png">
+<h5>SPIDERGESA</h5>
+<p>400$</p>
+<img src="C:\Users\holam\OneDrive\Documentos/spidergesa.png">
+<h6>HAMBURGUESA NORMAL</h6>
+<p>250$</p>
+<img src="C:\Users\holam\Downloads/anbor.png">
+
+</td>
+<td>
+
+</td>
+
+</tr>
+
+</table></center>
+<center>
+<a href="index.html">Inicio</a> - 
+<a href="servicios.html">Servicios</a> - 
+<a href="contactanos.html">Contactanos</a> <br>Copyright 2022 Mandanos un mensaje via email a 
+<a href="Luisgameplays118@gmail.com">01905675@cobachbc.mx</a>
+
+</center>
+</td></tr></table></center>
+</body>
+</html>
